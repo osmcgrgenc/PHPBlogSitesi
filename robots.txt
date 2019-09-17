@@ -1,5 +1,4 @@
-User-Agent: *
-Allow: 
-Allow: /
-
-Sitemap: https://www.osmancagrigenc.com/sitemap.xml
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://osmancagrigenc.com/robots.txt

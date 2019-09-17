@@ -26,12 +26,7 @@
                                 <?php echo ($settings->about_footer); ?>
                             </p>
 							<p>
-								<ul>
-									<li>deneme</li>
-									<li>deneme</li>
-									<li>deneme</li>
-									<li>deneme</li>
-								</ul>
+								<h5 class="title"><a href="https://osmancagrigenc.com/mycv.html" target="_blank">CV'mi görmek için tıklayınız.</a></h5>
 							</p>
                         </div>
                     </div>
