@@ -83,23 +83,7 @@
         var csfr_token = '<?php echo $this->security->get_csrf_hash(); ?>';
     </script>
 	
-	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-5525349541277692",
-          enable_page_level_ads: true
-     });
-</script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110854628-1"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-
-gtag('config', 'UA-110854628-1', { 'optimize_id': 'GTM-PMJGQ39'});
-</script>
+	
 </head>
 <body>
 
