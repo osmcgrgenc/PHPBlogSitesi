@@ -56,9 +56,9 @@ class Home extends MY_Controller
         $data['slider_posts'] = $this->post_model->get_slider_posts();
         $data['posts'] = $this->post_model->get_paginated_posts($config['per_page'], $page * $config['per_page']);
 
-        $this->load->view('partials/_header', $data);
-        $this->load->view('index', $data);
-        $this->load->view('partials/_footer');
+        $this->load->view('frontend/partials/_header', $data);
+        $this->load->view('frontend/pages/index', $data);
+        $this->load->view('frontend/partials/_footer');
     }
 
 
