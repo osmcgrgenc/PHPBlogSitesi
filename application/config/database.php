@@ -35,9 +35,9 @@
 */
 
 // The following values will probably need to be changed.
-$db['default']['username'] = "root";
-$db['default']['password'] = "";
-$db['default']['database'] = "cias";
+$db['default']['username'] = "osmancag_cias";
+$db['default']['password'] = "cupriw-8dizkE-cuwvyg";
+$db['default']['database'] = "osmancag_cias";
 
 // The following values can probably stay the same.
 $db['default']['hostname'] = "localhost";
